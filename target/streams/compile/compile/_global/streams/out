@@ -1,0 +1,17 @@
+[0m[[0m[33mwarn[0m] [0m[0mD:\codeplay\demobaocao\app\views\index.scala.html:8:43: Auto-application to `()` is deprecated. Supply the empty argument list `()` explicitly to invoke method listWidgets,[0m
+[0m[[0m[33mwarn[0m] [0m[0mor remove the empty argument list from its definition (Java-defined methods are exempt).[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn Scala 3, an unapplied method like this will be eta-expanded into a function. [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0m    <li><a href="@routes.WidgetController.listWidgets">Add Product</a></li>[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mD:\codeplay\demobaocao\app\views\listWidgets.scala.html:43:41: symbol literal is deprecated; use Symbol("_label") instead [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0m        @helper.inputText(form("name"), '_label -> "Product name")[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mD:\codeplay\demobaocao\app\views\listWidgets.scala.html:47:42: symbol literal is deprecated; use Symbol("_label") instead [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0m        @helper.inputText(form("price"), '_label -> "Price")[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mD:\codeplay\demobaocao\app\views\listWidgets.scala.html:39:42: Auto-application to `()` is deprecated. Supply the empty argument list `()` explicitly to invoke method createWidget,[0m
+[0m[[0m[33mwarn[0m] [0m[0mor remove the empty argument list from its definition (Java-defined methods are exempt).[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn Scala 3, an unapplied method like this will be eta-expanded into a function. [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0m    @helper.form(routes.WidgetController.createWidget) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m

@@ -1,0 +1,53 @@
+@import play.mvc.Http.Request
+@(widgets: Seq[Widget], form: Form[WidgetData])(implicit request: Request, messages: play.i18n.Messages)
+
+@main("Product") {
+<div class="container">
+    <h1>Product</h1>
+    <ul>
+        <li><a href="@routes.WidgetController.index">Home</a></li>
+    </ul>
+
+
+    <div class="flash">
+    @request.flash.asScala().data.map { case (name, value) =>
+    <div class="alert">@value</div>
+    }
+    </div>
+
+    <table class="widget-table">
+        <thead>
+            <tr><th>Product name</th><th>Price</th></tr>
+        </thead>
+        <tbody>
+        @for(w <- widgets) {
+            <tr><td>@w.name</td><td>@w.price</td></tr>
+        }
+        </tbody>
+    </table>
+
+    <hr/>
+
+    @if(form.hasGlobalErrors) {
+        <div class="error">
+        @form.globalErrors.asScala.map { error: play.data.validation.ValidationError =>
+            <div>@error.key: @error.message</div>
+        }
+        </div>
+    }
+
+    @helper.form(routes.WidgetController.createWidget) {
+        @helper.CSRF.formField
+
+        <div class="form-field">
+        @helper.inputText(form("name"), '_label -> "Product name")
+        </div>
+
+        <div class="form-field">
+        @helper.inputText(form("price"), '_label -> "Price")
+        </div>
+
+        <button type="submit" class="btn">Create Product</button>
+    </div>
+    }
+}

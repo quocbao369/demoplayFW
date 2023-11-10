@@ -1,0 +1,189 @@
+2023.11.08 22:20:42 INFO  Started: Metals version 1.1.0 in folders 'D:\codeplay\demobaocao' for client Visual Studio Code 1.84.1.
+2023.11.08 22:20:44 WARN  Build server is not auto-connectable.
+2023.11.08 22:20:44 WARN  no build target for: D:\codeplay\demobaocao\app\controllers\WidgetData.java
+2023.11.08 22:20:44 WARN  no build target for: D:\codeplay\demobaocao\app\models\Widget.java
+2023.11.08 22:20:45 INFO  time: code lens generation in 1.29s
+2023.11.08 22:20:51 WARN  no build target for: D:\codeplay\demobaocao\app\controllers\LoginController.java
+2023.11.08 22:20:56 INFO  no build target found for D:\codeplay\demobaocao\app\controllers\WidgetData.java. Using presentation compiler with project's scala-library version: 3.3.1
+Nov 08, 2023 10:21:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Nov 08, 2023 10:21:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Nov 08, 2023 10:21:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Nov 08, 2023 10:21:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-21-04-112.md
+Nov 08, 2023 10:21:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-21-05-144.md
+2023.11.08 22:21:05 WARN  no build target for: D:\codeplay\demobaocao\app\controllers\WidgetController.java
+Nov 08, 2023 10:21:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-21-07-170.md
+2023.11.08 22:21:08 INFO  time: code lens generation in 2.28s
+Nov 08, 2023 10:21:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-21-09-039.md
+Nov 08, 2023 10:21:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Nov 08, 2023 10:21:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-21-14-150.md
+Nov 08, 2023 10:26:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-26-02-810.md
+Nov 08, 2023 10:26:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-26-03-334.md
+Nov 08, 2023 10:26:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-26-03-515.md
+Nov 08, 2023 10:26:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-26-05-195.md
+Nov 08, 2023 10:26:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-26-05-603.md
+Nov 08, 2023 10:26:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-26-11-153.md
+Nov 08, 2023 10:26:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-26-23-447.md
+Nov 08, 2023 10:26:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-26-27-996.md
+Nov 08, 2023 10:27:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-27-00-929.md
+Nov 08, 2023 10:27:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-27-05-939.md
+2023.11.08 22:27:12 WARN  no build target for: D:\codeplay\demobaocao\app\models\User.java
+Nov 08, 2023 10:27:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-27-12-854.md
+Nov 08, 2023 10:27:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-27-13-915.md
+Nov 08, 2023 10:27:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-27-14-288.md
+Nov 08, 2023 10:27:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-27-15-348.md
+Nov 08, 2023 10:27:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-27-16-426.md
+Nov 08, 2023 10:27:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-27-22-506.md
+Nov 08, 2023 10:27:25 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-27-25-438.md
+Nov 08, 2023 10:28:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-28-57-772.md
+Nov 08, 2023 10:28:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-28-59-351.md
+Nov 08, 2023 10:29:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-29-00-138.md
+Nov 08, 2023 10:30:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-30-13-872.md
+Nov 08, 2023 10:30:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-30-16-574.md
+Nov 08, 2023 10:30:25 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-30-25-803.md
+Nov 08, 2023 10:30:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-30-26-390.md
+Nov 08, 2023 10:30:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-30-26-554.md
+Nov 08, 2023 10:30:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-30-26-971.md
+Nov 08, 2023 10:30:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-30-29-078.md
+Nov 08, 2023 10:34:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-34-19-950.md
+Nov 08, 2023 10:34:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-34-22-009.md
+Nov 08, 2023 10:34:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-34-23-128.md
+Nov 08, 2023 10:34:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-34-27-854.md
+Nov 08, 2023 10:34:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-34-28-808.md
+Nov 08, 2023 10:34:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-34-30-322.md
+Nov 08, 2023 10:34:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-34-51-779.md
+Nov 08, 2023 10:34:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-34-54-729.md
+Nov 08, 2023 10:34:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-34-58-901.md
+Nov 08, 2023 10:34:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-34-59-932.md
+Nov 08, 2023 10:35:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-35-01-922.md
+Nov 08, 2023 10:35:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-35-08-032.md
+Nov 08, 2023 10:35:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-35-08-284.md
+Nov 08, 2023 10:35:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-35-08-542.md
+Nov 08, 2023 10:35:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-35-11-451.md
+Nov 08, 2023 10:35:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-35-50-921.md
+Nov 08, 2023 10:35:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-35-58-117.md
+2023.11.08 22:35:59 WARN  no build target for: D:\codeplay\demobaocao\app\controllers\WidgetController.java
+Nov 08, 2023 10:35:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-35-59-495.md
+Nov 08, 2023 10:36:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-36-13-200.md
+Nov 08, 2023 10:36:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-36-13-469.md
+Nov 08, 2023 10:36:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-36-23-132.md
+Nov 08, 2023 10:36:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-36-29-167.md
+Nov 08, 2023 10:36:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-36-37-264.md
+Nov 08, 2023 10:36:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-36-38-082.md
+Nov 08, 2023 10:36:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-36-38-605.md
+Nov 08, 2023 10:36:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-36-45-241.md
+Nov 08, 2023 10:36:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-36-45-801.md
+Nov 08, 2023 10:37:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-37-31-757.md
+Nov 08, 2023 10:37:34 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-37-34-962.md
+Nov 08, 2023 10:37:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-37-35-901.md
+Nov 08, 2023 10:37:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-37-36-439.md
+Nov 08, 2023 10:39:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-39-09-253.md
+Nov 08, 2023 10:39:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-39-10-708.md
+Nov 08, 2023 10:40:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-40-03-901.md
+Nov 08, 2023 10:40:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-40-06-860.md
+Nov 08, 2023 10:40:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-40-08-884.md
+Nov 08, 2023 10:41:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-13-476.md
+Nov 08, 2023 10:41:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-15-040.md
+Nov 08, 2023 10:41:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-16-404.md
+Nov 08, 2023 10:41:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-17-276.md
+Nov 08, 2023 10:41:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-17-562.md
+Nov 08, 2023 10:41:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-17-906.md
+Nov 08, 2023 10:41:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-18-332.md
+Nov 08, 2023 10:41:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-18-716.md
+Nov 08, 2023 10:41:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-18-833.md
+Nov 08, 2023 10:41:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-19-956.md
+Nov 08, 2023 10:41:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-31-861.md
+Nov 08, 2023 10:41:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-32-611.md
+Nov 08, 2023 10:41:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\codeplay\demobaocao\.metals\.reports\metals-full\2023-11-08\r_compiler-error_22-41-46-834.md
+2023.11.08 22:46:45 INFO  Shutting down server
+2023.11.08 22:46:45 INFO  shutting down Metals
+2023.11.08 22:46:45 INFO  Exiting server
+2023.11.09 10:17:42 INFO  Started: Metals version 1.1.0 in folders 'D:\codeplay\demobaocao' for client Visual Studio Code 1.84.1.
+2023.11.09 10:17:44 WARN  Build server is not auto-connectable.
+2023.11.09 10:17:50 INFO  Shutting down server
+2023.11.09 10:17:50 INFO  shutting down Metals
+2023.11.09 10:17:50 INFO  Exiting server

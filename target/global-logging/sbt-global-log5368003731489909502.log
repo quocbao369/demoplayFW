@@ -1,0 +1,48 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.7.2 (Oracle Corporation Java 11.0.20)
+[debug] Load.defaultLoad until apply took 139.498ms
+[debug]           Load.loadUnit: plugins took 209.4701ms
+[debug]           Load.loadUnit: defsScala took 0.7555ms
+[debug] [Loading] Scanning directory D:\codeplay\demobaocao - Copy\project
+[debug]             Load.loadUnit: mkEval took 12.6234ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in D:\codeplay\demobaocao - Copy\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 15.6553 ms
+[info] loading settings for project demobaocao-copy-build from plugins.sbt ...
+[debug]               Load.resolveProject(demobaocao-copy-build) took 46.2486ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id demobaocao-copy-build, base: D:\codeplay\demobaocao - Copy\project, plugins: List(<none>))) took 71.6317ms
+[debug] [Loading] Done in D:\codeplay\demobaocao - Copy\project, returning: (demobaocao-copy-build)
+[debug]           Load.loadUnit: loadedProjectsRaw took 2706.6356ms
+[debug]           Load.loadUnit: cleanEvalClasses took 26.1128ms
+[debug]         Load.loadUnit(file:/D:/codeplay/demobaocao%20-%20Copy/project/, ...) took 2953.2117ms
+[debug]       Load.apply: load took 3059.8204ms
+[debug]       Load.apply: resolveProjects took 8.153ms
+[debug]       Load.apply: finalTransforms took 75.3779ms
+[debug]       Load.apply: config.delegates took 10.0922ms
+[debug]       Load.apply: Def.make(settings)... took 435.5965ms
+[debug]       Load.apply: structureIndex took 128.5246ms
+[debug]       Load.apply: mkStreams took 5.1525ms
+[info] loading project definition from D:\codeplay\demobaocao - Copy\project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
